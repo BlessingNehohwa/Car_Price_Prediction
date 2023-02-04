@@ -1,4 +1,4 @@
-# Carprice prediction project
+# Car price prediction project
 
 <b> Business Problem : </b>
 
