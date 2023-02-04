@@ -15,3 +15,5 @@ The columns in the given dataset is as follows:
 * Seller_Type
 * Transmission
 * Owner
+
+Conclusion:
