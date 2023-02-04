@@ -21,4 +21,4 @@ The columns in the given dataset is as follows:
 <b> Conclusion </b>:
 
 I did my EDA and trained my dataset using linear regression and random forest regresser. The r2 score 
-for linear regression was 0.91 and for random forest regressor was 0.96 therefotre i chose the random forest with 0.96 accuracy 
+for linear regression was 0.91 and for random forest regressor was 0.96 therefotre i chose the random forest with <b> 0.96 </b> accuracy 
