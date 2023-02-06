@@ -19,6 +19,7 @@ Click Link :
 **[Car Price Prediction](https://github.com/BlessingNehohwa/car-price-prediction-project/blob/main/Car%20Price%20Prediction%20Analysis.ipynb
 ).**
 
+
 <b> Conclusion </b>:
 
 I did my EDA and trained my dataset using linear regression and random forest regresser. The r2 score 
